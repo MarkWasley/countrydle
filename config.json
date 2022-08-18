@@ -1,12 +1,12 @@
 {
   "epoch": {
     "year": 2022,
-    "month": 4,
-    "day": 2
+    "month": 8,
+    "day": 18
   },
-  "timezone": "America/Los_Angeles",
+  "timezone": "Pacific/Auckland",
   "randomSong": false,
   "maxTries": 6,
-  "seed": "kanye west",
+  "seed": "country",
   "siteUrl": "https://westle.netlify.app"
 }
